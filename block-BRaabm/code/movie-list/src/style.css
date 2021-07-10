@@ -73,13 +73,23 @@ img{
     z-index: 2;
     top: 80%;
     display: none;
-    left: 60%;	
+    left: 60%;
+    cursor: pointer;	
 }
 
 .card:hover .btn{ 
     display:block;
     }
 
- .modal{
+ /* .none{
      display: none;
- }   
+ }
+ 
+ .block{
+     display: block;
+ } */
+
+
+ .modal{
+
+ }
